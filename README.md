@@ -3,8 +3,8 @@ Easy way how to manage software via packages.
 
 
 ## SOURCE REQUIREMENTS
-* .NET Framework 4.0
-* PowerShell 2.0+
+* .NET Framework 4+
+* PowerShell 2+
 * Windows 7+ / Windows Server 2003+
 
 
