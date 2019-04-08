@@ -1,1 +1,1 @@
-choco install  googlechrome git GitHub notepadplusplus.install 7zip.install firefox virtualbox vscode sql-server-management-studio rdmfree thunderbird vlc speedfan skype libreoffice-fresh putty python3 keepass gimp -y
+choco install 7zip.install autohotkey.portable ccleaner firefox git github-desktop googlechrome hugo libreoffice-fresh megasync notepadplusplus.install putty python3 rdmfree skype speedfan sql-server-management-studio thunderbird virtualbox vlc vscode youtube-dl -y
