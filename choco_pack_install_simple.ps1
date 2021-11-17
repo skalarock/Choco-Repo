@@ -1,1 +1,1 @@
-choco install 7zip.install audacity autohotkey.portable curl ffmpeg firefox git googlechrome hugo libreoffice-fresh megasync notepadplusplus.install putty python3 rdmfree skype speedfan telegram.portable thunderbird virtualbox vlc vscode youtube-dl shotcut joplin -y
+choco install 7zip.install audacity autohotkey.portable curl ffmpeg firefox git googlechrome hugo libreoffice-fresh megasync notepadplusplus.install putty python3 rdmfree skype speedfan telegram.portable thunderbird discord vlc vscode youtube-dl shotcut joplin -y
